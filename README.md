@@ -4,7 +4,7 @@ A tech-driven professional focused on digital solutions, workflow automation, an
 
 ### 💻 Tech Stack & Tools
 * **Languages:** Python, Bash
-* **OS/Environment:** Linux (Ubuntu), Zsh, Custom Terminal Setups
+* **OS/Environment:** Linux (Fedora) Zsh, Custom Terminal Setups also use MacOS and Windows as well.
 * **Web & Projects:** React, HTML, SaaS Development
 
 ### ⚙️ What I Do
