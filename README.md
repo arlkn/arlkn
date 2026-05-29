@@ -14,10 +14,12 @@ A tech-driven professional focused on digital solutions, workflow automation, an
 
   ### 📊 My GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Aral's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</p>
+### ⚡ Quick Facts About Me
+
+- 🔭 I’m currently learning: **Advanced Python automation and backend API integration.**
+- 💻 My favorite setup: **A highly customized Linux terminal with Zsh and sleek productivity tweaks.**
+- 🎯 My goal: **To build efficient, tech-driven solutions that solve real-world business and sales challenges.**
+- 💬 Ask me about: **Workflow optimization, automation scripts, or computing environments.**
 
 ---
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
