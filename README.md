@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Aral! 👋
 
-<!--
-**arlkn/arlkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A tech-driven professional focused on digital solutions, workflow automation, and environment optimization. I love writing scripts to make life easier and exploring the intersections of tech and business.
 
-Here are some ideas to get you started:
+### 💻 Tech Stack & Tools
+* **Languages:** Python, Bash
+* **OS/Environment:** Linux (Ubuntu), Zsh, Custom Terminal Setups
+* **Web & Projects:** React, HTML, SaaS Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ What I Do
+- 🐍 Write **Python** scripts for automation and data handling.
+- 🐚 Use **Bash** to customize my environment and streamline terminal workflows.
+- 🚀 Build and optimize frontend elements for SaaS platforms.
+
+---
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
