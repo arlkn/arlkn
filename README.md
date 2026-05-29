@@ -12,8 +12,6 @@ A tech-driven professional focused on digital solutions, workflow automation, an
 - 🐚 Use **Bash** to customize my environment and streamline terminal workflows.
 - 🚀 Build and optimize frontend elements for SaaS platforms.
 
-  ### 📊 My GitHub Stats
-
 ### ⚡ Quick Facts About Me
 
 - 🔭 I’m currently learning: **Advanced Python automation and backend API integration.**
