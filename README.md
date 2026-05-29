@@ -6,7 +6,7 @@ A tech-driven professional working at the intersection of digital solutions, wor
 
 ### 💻 OS & Terminal Environments
 I operate seamlessly across multiple platforms, customizing each environment to maximize productivity and speed:
-* 🐧 **Linux:** My playground for deep environment customization, shell scripting, and running optimized distros (Ubuntu) with custom Zsh setups.
+* 🐧 **Linux:** My playground for deep environment customization, shell scripting, and running optimized distros (Fedora) with custom Zsh setups.
 * 🍏 **macOS:** My daily driver for sleek productivity, clean unix workflows, and modern development tools.
 * 🪟 **Windows:** Used for enterprise workflows, integration testing, and cross-platform compatibility.
 
