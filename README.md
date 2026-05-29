@@ -21,6 +21,13 @@ I operate seamlessly across multiple platforms, customizing each environment to 
 - 🚀 **SaaS & Frontend:** Developing and refining modern, responsive user interfaces using **React** and web technologies.
 
 ---
+   █████╗   ██████╗   ██╗         ██╗  ██╗  ███╗   ██╗
+  ██╔══██╗  ██╔══██╗  ██║         ██║ ██╔╝  ████╗  ██║
+  ███████║  ██████╔╝  ██║         █████╔╝   ██╔██╗ ██║
+  ██╔══██║  ██╔══██╗  ██║         ██╔═██╗   ██║╚██╗██║
+  ██║  ██║  ██║  ██║  ███████╗    ██║  ██╗  ██║ ╚████║
+  ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚══════╝    ╚═╝  ╚═╝  ╚═╝  ╚═══╝
+   ╚══════╝  ╚══════╝  ╚═══════╝   ╚══════╝  ╚═══════╝
 
 ### 🧰 OS Ecosystem & Stack
 <p align="left">
