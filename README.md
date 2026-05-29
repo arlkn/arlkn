@@ -22,7 +22,7 @@ I operate seamlessly across multiple platforms, customizing each environment to 
 
 ---
 
-### 🧰 Ecosystem & OS Stack
+### 🧰 OS Ecosystem & Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
