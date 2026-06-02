@@ -24,10 +24,12 @@ I operate seamlessly across multiple platforms, customizing each environment to 
 
 ### 🧰 Stack & OS Ecosystem
 <p align="left">
-  <h1> Stack </h1>
+  
+  ### <h1> 🧰Stack </h1>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-<h2> OS Ecosystem </h2>
+
+  ### <h2> 🍏🪟🐧OS Ecosystem </h2>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoft-windows&logoColor=white" alt="Windows" />
@@ -37,11 +39,11 @@ I operate seamlessly across multiple platforms, customizing each environment to 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## 👨‍💻 Dev Tools
+### 👨‍💻 Dev Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-## 🛠️ Recent Projects & Activity
+### 🛠️ Recent Projects & Activity
 1-Thinksnap (Window Capture tool): https://github.com/arlkn/thinksnap
 ---
 
