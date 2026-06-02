@@ -33,6 +33,8 @@ I operate seamlessly across multiple platforms, customizing each environment to 
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoft-windows&logoColor=white" alt="Windows" />
 </p>
 
+## 🛠️ Recent Projects & Activity
+1-Thinksnap (Window Capture tool): https://github.com/arlkn/thinksnap
 ---
 
 ### ⚡ Quick Facts
