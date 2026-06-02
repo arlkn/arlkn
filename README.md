@@ -26,13 +26,13 @@ I operate seamlessly across multiple platforms, customizing each environment to 
 
 ---
 
-#### ** 🗃️Languages & Automation**
+#### 🗃️Languages & Automation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
-#### ** 🍏🪟🐧OS Ecosystem**
+#### 🍏🪟🐧OS Ecosystem
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoft-windows&logoColor=white)
