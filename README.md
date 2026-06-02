@@ -40,3 +40,5 @@ I operate seamlessly across multiple platforms, customizing each environment to 
 - 💬 **Ask me about:** Terminal customization, cross-platform productivity, or automation.
 - ⚡ **Fun Fact:** I spend way too much time optimizing my shell configurations, but the saved keystrokes are totally worth it.
 ---
+
+![Aral's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=radical)
