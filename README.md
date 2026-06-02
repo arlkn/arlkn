@@ -22,7 +22,7 @@ I operate seamlessly across multiple platforms, customizing each environment to 
 
 ---
 
-### 🧰 OS Ecosystem & Stack
+### 🧰 Stack & OS Ecosystem
 <p align="left">
   <h1> Stack </h1>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
