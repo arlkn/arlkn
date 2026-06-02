@@ -33,6 +33,14 @@ I operate seamlessly across multiple platforms, customizing each environment to 
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoft-windows&logoColor=white" alt="Windows" />
 </p>
 
+### ⚙️ Backend & Infrastructure
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+## 👨‍💻 Dev Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
 ## 🛠️ Recent Projects & Activity
 1-Thinksnap (Window Capture tool): https://github.com/arlkn/thinksnap
 ---
