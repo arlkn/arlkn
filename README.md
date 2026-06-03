@@ -24,18 +24,20 @@ I operate seamlessly across multiple platforms, customizing each environment to 
 
 ### 🧰 Stack & OS Ecosystem
 
----
-
-#### 🗃️Languages & Automation
+#### **Languages & Automation**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
----
-
-#### 🍏🪟🐧OS Ecosystem
+#### **OS Ecosystem**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoft-windows&logoColor=white)
+
+---
+
+### 🎨 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
@@ -51,7 +53,14 @@ I operate seamlessly across multiple platforms, customizing each environment to 
 ---
 
 ### 🛠️ Recent Projects & Activity
-* 📸 **[Thinksnap](https://github.com/arlkn/thinksnap)** - A lightweight, efficient window capture utility designed for streamlined workflows.
+* 🚀 **[Thinksnap](https://github.com/arlkn/thinksnap)** - A lightweight, efficient window capture utility designed for streamlined workflows.
+
+---
+
+### ⚡ Quick Facts
+* 🔭 **Currently working on:** Advanced Python workflow scripts and SaaS platform components.
+* 💬 **Ask me about:** Terminal customization, cross-platform productivity, or automation.
+* ⚡ **Fun Fact:** I spend way too much time optimizing my shell configurations, but the saved keystrokes are totally worth it.
 
 ---
 
