@@ -55,7 +55,7 @@ I operate seamlessly across multiple platforms, customizing each environment to 
 ---
 
 ### 🛠️ Recent Projects & Activity
-* 🚀 **[Thinksnap](https://github.com/arlkn/thinksnap)** - A lightweight, efficient window capture utility designed for streamlined workflows.
+* 📷 **[Thinksnap](https://github.com/arlkn/thinksnap)** - A lightweight, efficient window capture utility designed for streamlined workflows.
 
 ---
 
