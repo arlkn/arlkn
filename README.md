@@ -1,5 +1,7 @@
 # Hi there, I'm Aral! 👋
 
+# $ whoami
+
 A tech-driven professional working at the intersection of digital solutions, workflow automation, and cross-platform environment optimization. I love writing scripts to eliminate repetitive tasks, tweaking developer environments, and building efficient software solutions.
 
 ---
