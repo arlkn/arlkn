@@ -56,7 +56,7 @@ I operate seamlessly across multiple platforms, customizing each environment to 
 
 ### 🛠️ Recent Projects & Activity
 * 📷 **[Thinksnap](https://github.com/arlkn/thinksnap)** - A lightweight, efficient window capture utility designed for streamlined workflows.
-
+* 🏛️ **[aristoteles.ai](https://github.com/arlkn/aristoteles.ai)** - A minimalist, high-performance terminal AI assistant built for seamless shell workflows and local automation.
 ---
 
 ### ⚡ Quick Facts
