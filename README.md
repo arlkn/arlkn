@@ -1,8 +1,11 @@
 <img width="845" height="174" alt="arlkn  (1)" src="https://github.com/user-attachments/assets/d90cfb47-4c1e-4914-9289-60e13e682ef1" />
 
-# Hi there, I'm Aral! 👋
+# 💫 About Me:
+# Hi there, I'm Aral! 👋<br><br>A tech-driven professional working at the intersection of digital solutions, workflow automation, and cross-platform environment optimization. I love writing scripts to eliminate repetitive tasks, tweaking developer environments, and building efficient software solutions.
+---
 
-A tech-driven professional working at the intersection of digital solutions, workflow automation, and cross-platform environment optimization. I love writing scripts to eliminate repetitive tasks, tweaking developer environments, and building efficient software solutions.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@arlkn_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aral-alkan-585b03268/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/arlkn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aralalkan35@gmail.com) 
 
 ---
 
@@ -12,50 +15,34 @@ I operate seamlessly across multiple platforms, customizing each environment to 
 * 🍏 **macOS:** My daily driver for sleek productivity, clean unix workflows, and modern development tools.
 * 🪟 **Windows:** Used for enterprise workflows, integration testing, and cross-platform compatibility.
 
-### 🛠️ Tech Stack & Tools
-* **Languages:** Python, Bash
-* **Web & Project Development:** React, HTML, SaaS Architecture
-* **Shell & Customization:** Zsh, Advanced Terminal Configurations, Automation Scripts
+---
 
-### ⚙️ Core Focus Areas
-- 🐍 **Automation:** Writing robust **Python** scripts for data handling, task automation, and business process streamlining.
-- 🐚 **Scripting:** Leveraging **Bash** to build custom tools, automate system tasks, and optimize terminal workflows across Unix environments.
-- 🚀 **SaaS & Frontend:** Developing and refining modern, responsive user interfaces using **React** and web technologies.
+# 💻 Tech Stack:
+### Languages & Frameworks
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### Frontend & Design
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+
+### Cloud, DevOps & Databases
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Architecture
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=arlkn&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=arlkn&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=arlkn&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-### 🧰 Stack & OS Ecosystem
----
+[![](https://komarev.com/ghpvc/?username=arlkn&icon=0&color=0)](https://visitcount.itsvg.in)
 
-#### 🤖 Scripts & Automation 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
----
-
-#### 🌐 OS Ecosystem
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoft-windows&logoColor=white)
-
----
-
-### 🎨 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
----
-
-### ⚙️ Backend & Infrastructure
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-### 👨‍💻 Dev Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### 🛠️ Recent Projects & Activity
 * 📷 **[Thinksnap](https://github.com/arlkn/thinksnap)** - A lightweight, efficient window capture utility designed for streamlined workflows.
 * 🏛️ **[aristoteles.ai](https://github.com/arlkn/aristoteles.ai)** - A minimalist, high-performance terminal AI assistant built for seamless shell workflows and local automation.
