@@ -1,6 +1,5 @@
 <img width="845" height="174" alt="arlkn  (1)" src="https://github.com/user-attachments/assets/d90cfb47-4c1e-4914-9289-60e13e682ef1" />
 
-# 💫 About Me:
 # Hi there, I'm Aral! 👋<br><br>A tech-driven professional working at the intersection of digital solutions, workflow automation, and cross-platform environment optimization. I love writing scripts to eliminate repetitive tasks, tweaking developer environments, and building efficient software solutions.
 ---
 
