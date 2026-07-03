@@ -1,63 +1,6 @@
 <img width="845" height="174" alt="arlkn  (1)" src="https://github.com/user-attachments/assets/d90cfb47-4c1e-4914-9289-60e13e682ef1" />
 <p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 20" width="100%">
-    <style>
-      .loading-block {
-        fill: #ffffff;
-        opacity: 0;
-        animation: stepLoad 3s infinite;
-      }
-      /* Staggering the rectangles to create a loading sequence */
-      .b1 { animation-delay: 0.0s; }
-      .b2 { animation-delay: 0.15s; }
-      .b3 { animation-delay: 0.3s; }
-      .b4 { animation-delay: 0.45s; }
-      .b5 { animation-delay: 0.6s; }
-      .b6 { animation-delay: 0.75s; }
-      .b7 { animation-delay: 0.9s; }
-      .b8 { animation-delay: 1.05s; }
-      .b9 { animation-delay: 1.2s; }
-      .b10 { animation-delay: 1.35s; }
-
-      @keyframes stepLoad {
-        0% { opacity: 0; }
-        10% { opacity: 1; }
-        85% { opacity: 1; }
-        95% { opacity: 0; }
-        100% { opacity: 0; }
-      }
-    </style>
-
-    <!-- Background Track (Dotted Grid Layout) -->
-    <g fill="#222222">
-      <rect x="0" y="8" width="76" height="4" rx="1" />
-      <rect x="80" y="8" width="76" height="4" rx="1" />
-      <rect x="160" y="8" width="76" height="4" rx="1" />
-      <rect x="240" y="8" width="76" height="4" rx="1" />
-      <rect x="320" y="8" width="76" height="4" rx="1" />
-      <rect x="400" y="8" width="76" height="4" rx="1" />
-      <rect x="480" y="8" width="76" height="4" rx="1" />
-      <rect x="560" y="8" width="76" height="4" rx="1" />
-      <rect x="640" y="8" width="76" height="4" rx="1" />
-      <rect x="720" y="8" width="76" height="4" rx="1" />
-    </g>
-
-    <!-- Animated White Loading Rectangles -->
-    <g>
-      <rect x="0" y="8" width="76" height="4" rx="1" class="loading-block b1" />
-      <rect x="80" y="8" width="76" height="4" rx="1" class="loading-block b2" />
-      <rect x="160" y="8" width="76" height="4" rx="1" class="loading-block b3" />
-      <rect x="240" y="8" width="76" height="4" rx="1" class="loading-block b4" />
-      <rect x="320" y="8" width="76" height="4" rx="1" class="loading-block b5" />
-      <rect x="400" y="8" width="76" height="4" rx="1" class="loading-block b6" />
-      <rect x="480" y="8" width="76" height="4" rx="1" class="loading-block b7" />
-      <rect x="560" y="8" width="76" height="4" rx="1" class="loading-block b8" />
-      <rect x="640" y="8" width="76" height="4" rx="1" class="loading-block b9" />
-      <rect x="720" y="8" width="76" height="4" rx="1" class="loading-block b10" />
-    </g>
-  </svg>
-</p>
-
+  
 # Hi there, I'm Aral! 👋
 
 A tech-driven professional working at the intersection of digital solutions, workflow automation, and cross-platform environment optimization. I love writing scripts to eliminate repetitive tasks, tweaking developer environments, and building efficient software solutions.
