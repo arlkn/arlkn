@@ -5,7 +5,7 @@
 A tech-driven professional working at the intersection of digital solutions, workflow automation, and cross-platform environment optimization. I love writing scripts to eliminate repetitive tasks, tweaking developer environments, and building efficient software solutions.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@arlkn_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aral-alkan-585b03268/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/arlkn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aralalkan35@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@arlkn_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aral-alkan-585b03268/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/arlkn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aralalkan35@gmail.com) 
 
 ---
 
