@@ -40,8 +40,6 @@ I operate seamlessly across multiple platforms, customizing each environment to 
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=arlkn&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### 🛠️ Recent Projects & Activity
 * 📷 **[Thinksnap](https://github.com/arlkn/thinksnap)** - A lightweight, efficient window capture utility designed for streamlined workflows.
