@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/af63ea5c-a139-4dff-ad81-1f40aff31c09
+
 # Hi there, I'm Aral! 👋
 
 A tech-driven professional working at the intersection of digital solutions, workflow automation, and cross-platform environment optimization. I love writing scripts to eliminate repetitive tasks, tweaking developer environments, and building efficient software solutions.
