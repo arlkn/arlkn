@@ -1,4 +1,4 @@
-<img width="800" height="800" alt="arlkn" src="https://github.com/user-attachments/assets/b8871ff2-aeed-4f17-b3e5-02df5274ba27" />
+<img width="845" height="174" alt="arlkn  (1)" src="https://github.com/user-attachments/assets/d90cfb47-4c1e-4914-9289-60e13e682ef1" />
 
 # Hi there, I'm Aral! 👋
 
