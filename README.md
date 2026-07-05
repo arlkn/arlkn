@@ -30,6 +30,10 @@ I operate seamlessly across multiple platforms, customizing each environment to 
 ### Tools & Architecture
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&v=4) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+# Certificates
+<img width="352" height="352" alt="data-science-orientation" src="https://github.com/user-attachments/assets/cdde6603-488e-4be1-b409-cb97437e22e9" />
+
+
 <hr style="border: 2px solid #222222; margin: 20px 0;" />
 
 # 📊 GitHub Stats:
