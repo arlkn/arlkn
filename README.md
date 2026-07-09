@@ -44,6 +44,7 @@ I operate seamlessly across multiple platforms, customizing each environment to 
 ### 🛠️ Recent Projects & Activity
 * 📷 **[Thinksnap](https://github.com/arlkn/thinksnap)** - A lightweight, efficient window capture utility designed for streamlined workflows.
 * 🏛️ **[aristoteles.ai](https://github.com/arlkn/aristoteles.ai)** - A minimalist, high-performance terminal AI assistant built for seamless shell workflows and local automation.
+* 🚀 **[Detach](https://github.com/arlkn/Detach)** - Modern macOS application uninstaller that completely removes applications and their associated files with a clean Apple-inspired interface.
 
 <hr style="border: 2px solid #222222; margin: 20px 0;" />
 
