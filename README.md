@@ -62,4 +62,4 @@ I operate seamlessly across multiple platforms, customizing each environment to 
 <hr style="border: 2px solid #222222; margin: 20px 0;" />
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/arlkn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/arlkn" /></a></p><br><br>
+<p><a href="https://buymeacoffee.com/arlkn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/arlkn" /></a></p><br><br>
