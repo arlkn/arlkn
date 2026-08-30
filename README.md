@@ -46,6 +46,12 @@
 </div>
 
 
+<h2>Certifications</h2>
+
+<a href="https://www.credly.com/users/aral-an
+">
+<img width="145" height="145" alt="Cognitive_Class_-_What_is_Data_Science" src="https://github.com/user-attachments/assets/283bf8de-37c7-424c-af40-7880c8f99e7b" />
+
 
 ### 💻 OS & Terminal Environments
 I operate seamlessly across multiple platforms, customizing each environment to maximize productivity and speed:
