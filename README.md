@@ -4,6 +4,8 @@
 
 <h3 align="left">A tech-driven professional working at the intersection of digital solutions, workflow automation, and cross-platform environment optimization. I love writing scripts to eliminate repetitive tasks, tweaking developer environments, and building efficient software solutions.</h3>
 
+![Profile Views](https://komarev.com/ghpvc/?username=arlkn&color=blue&style=flat)
+
  <hr style="border: 2px solid #222222; margin: 20px 0;" />
 
 ## 🌐 Socials:
