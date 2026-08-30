@@ -47,7 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
 </div>
 
-
 <h2>Certifications</h2>
 
 <a href="https://www.credly.com/users/aral-arlkn">
